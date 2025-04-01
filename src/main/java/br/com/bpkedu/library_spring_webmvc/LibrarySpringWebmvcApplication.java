@@ -10,4 +10,5 @@ public class LibrarySpringWebmvcApplication {
 		SpringApplication.run(LibrarySpringWebmvcApplication.class, args);
 	}
 
+	// Acesso: http://localhost:8080/
 }
